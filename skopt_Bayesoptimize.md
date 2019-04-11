@@ -1,5 +1,5 @@
 ## 使用skopt中Bayesian搜索寻找scikit-learn中算法的最优超参数
-> ![skopt](https://scikit-optimize.github.io/)是一个超参数优化库，包括随机搜索、贝叶斯搜索、决策森林和梯度提升树等，用于辅助寻找机器学习算法中的最优超参数。
+> [skopt](https://scikit-optimize.github.io/)是一个超参数优化库，包括随机搜索、贝叶斯搜索、决策森林和梯度提升树等，用于辅助寻找机器学习算法中的最优超参数。
 
 
 ### 上手实例
