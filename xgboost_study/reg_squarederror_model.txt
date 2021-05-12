@@ -1,0 +1,70 @@
+booster[0]:
+0:[f5<6.8375001] yes=1,no=2,missing=1
+	1:[f12<14.3950005] yes=3,no=4,missing=3
+		3:[f12<9.71500015] yes=7,no=8,missing=7
+			7:leaf=7.26108122
+			8:leaf=6.02400017
+		4:[f0<5.78189993] yes=9,no=10,missing=9
+			9:leaf=4.97506857
+			10:leaf=3.22619057
+	2:[f5<7.43700027] yes=5,no=6,missing=5
+		5:[f0<7.39342499] yes=11,no=12,missing=11
+			11:leaf=9.3697834
+			12:leaf=3.12749982
+		6:leaf=13.0575008
+booster[1]:
+0:[f5<6.94099998] yes=1,no=2,missing=1
+	1:[f12<15] yes=3,no=4,missing=3
+		3:[f5<6.54449987] yes=7,no=8,missing=7
+			7:leaf=4.43739939
+			8:leaf=5.67651415
+		4:[f7<2.00119996] yes=9,no=10,missing=9
+			9:leaf=2.25827312
+			10:leaf=3.52858019
+	2:[f0<7.39342499] yes=5,no=6,missing=5
+		5:[f5<7.43700027] yes=11,no=12,missing=11
+			11:leaf=6.87476587
+			12:leaf=9.3034687
+		6:leaf=2.42381263
+booster[2]:
+0:[f12<5.43999958] yes=1,no=2,missing=1
+	1:[f5<6.90849972] yes=3,no=4,missing=3
+		3:leaf=4.31929874
+		4:leaf=6.2788682
+	2:[f12<16.3199997] yes=5,no=6,missing=5
+		5:[f7<1.22714996] yes=7,no=8,missing=7
+			7:leaf=7.56030416
+			8:leaf=3.22052431
+		6:[f0<9.82036495] yes=9,no=10,missing=9
+			9:leaf=2.27566981
+			10:leaf=1.22571003
+booster[3]:
+0:[f5<7.01049995] yes=1,no=2,missing=1
+	1:[f12<10.1399994] yes=3,no=4,missing=3
+		3:[f0<6.98771477] yes=7,no=8,missing=7
+			7:leaf=2.54797316
+			8:leaf=6.04824352
+		4:[f4<0.669499993] yes=9,no=10,missing=9
+			9:leaf=1.89106596
+			10:leaf=1.07127368
+	2:[f5<7.43700027] yes=5,no=6,missing=5
+		5:[f0<13.9285946] yes=11,no=12,missing=11
+			11:leaf=3.65395808
+			12:leaf=0.859224439
+		6:leaf=4.93823528
+booster[4]:
+0:[f5<6.54699993] yes=1,no=2,missing=1
+	1:[f12<19.6450005] yes=3,no=4,missing=3
+		3:[f7<1.39789999] yes=7,no=8,missing=7
+			7:leaf=4.51597166
+			8:leaf=1.37769735
+		4:[f4<0.603000045] yes=9,no=10,missing=9
+			9:leaf=1.35300207
+			10:leaf=0.334388763
+	2:[f12<4.69499969] yes=5,no=6,missing=5
+		5:[f7<3.20744991] yes=11,no=12,missing=11
+			11:leaf=4.32014227
+			12:leaf=2.83221936
+		6:[f9<267.5] yes=13,no=14,missing=13
+			13:leaf=2.89146686
+			14:leaf=1.70823276
